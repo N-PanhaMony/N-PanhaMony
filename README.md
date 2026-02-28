@@ -17,7 +17,6 @@ I'm a passionate full-stack developer focused on building production-ready appli
 
 I enjoy:
 - Designing REST APIs
-- Building responsive and interactive UIs
 - Working with databases and authentication systems
 - Improving code structure and scalability
 - Learning system design and backend architecture
@@ -36,14 +35,6 @@ I believe in:
 - Continuous improvement
 - Practical problem solving
 - Building meaningful software
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N-PanhaMony&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PanhaMony&layout=compact&theme=tokyonight)
 
 ---
 
