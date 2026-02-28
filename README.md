@@ -6,8 +6,8 @@ I build scalable, maintainable, and user-focused web applications using modern w
 
 🌍 Based in Cambodia  
 💼 Open to Junior / Entry-Level Full-Stack Roles  
-🌐 **Explore my full work here → ....**  
-📫 Contact: ...
+🌐 **Explore my full work here → https://neangpanhamony.vercel.app/**  
+📫 Contact: https://t.me/NeangPanhaMony
 
 ---
 
